@@ -1,6 +1,6 @@
 
 export default { 
-    CLIENT_ID:'113118852897-9eb42126bkleqjtf17qhgrb4ua22j47a.apps.googleusercontent.com',
-    API_KEY: '0jqxKisYEhSZINA58lbt29Fs',
+    CLIENT_ID:'672737151355-b07tnobonujvfr51haveunm949km8oha.apps.googleusercontent.com',
+    API_KEY: 'AIzaSyDac6pg9aZNFiM8IfcPeOyXQ8Al_YNOCRQ',
     BASE_URL:'https://www.googleapis.com/youtube/v3'
 } 
